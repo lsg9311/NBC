@@ -1,0 +1,2 @@
+# NBC
+Naive bayes classifier
